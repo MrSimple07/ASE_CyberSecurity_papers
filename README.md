@@ -23,6 +23,9 @@ Results: History of Privacy, Different international viewpoints (privacy in asia
 - https://www.worldprivacyforum.org/wp-content/uploads/2011/10/WPFselfregulationhistory.pdf
 - https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781315172071&type=googlepdf
 
+New:
+- https://www.sciencedirect.com/science/article/pii/S2352340924003202
+- https://www.sciencedirect.com/science/article/abs/pii/S0267364905000312
+
 ## For Prisma method:
 - https://www.projectguru.in/prisma-systematic-reviews-meta-analyses/
-- https://habr.com/ru/companies/timeweb/articles/654567/
